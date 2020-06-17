@@ -5,7 +5,7 @@
   "description": "A fortune telling Action.",
   "main": "index.js",
   "engines": {
-    "node": "8"
+    "node": "10"
   },
   "dependencies": {
     "@assistant/conversation": "^3.0.0",
